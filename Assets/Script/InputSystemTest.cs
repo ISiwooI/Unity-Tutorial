@@ -1,7 +1,7 @@
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
-public class inputSystemTest : MonoBehaviour
+public class InputSystemTest : MonoBehaviour
 {
 
     void OnMove(InputValue value)
